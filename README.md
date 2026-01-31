@@ -1,6 +1,6 @@
 ## Hi there 👋
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{dev-burnern}?pet-id=1" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/farms/{dev-burnern}"/>
 </a>
 <!--
 **dev-burnern/dev-burnern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
