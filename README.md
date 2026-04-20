@@ -56,15 +56,6 @@
 - **교내 AI 해커톤 최우수상(1등)** — 2025.12
 - **NVIDIA 트랜스포머 기반 자연어 처리 애플리케이션 구축 수료** — 2025.12
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-burnern&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-burnern&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
 ## 최근 관심사
 - **Backend**
   - 계층 구조를 분리하고 책임을 명확하게 나누는 설계
