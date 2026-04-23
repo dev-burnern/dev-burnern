@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="mailto:jordash1044@naver.com">Email</a> ·
-  <a href="https://github.com/dev-burnern">GitHub</a> ·
   <a href="https://dev-burnern.github.io">Blog</a> ·
   <a href="https://your-portfolio-link.com">Portfolio</a>
 </p>
@@ -53,11 +52,11 @@
 
 | 구분 | 기술 |
 |------|------|
-| 언어 | Java, Kotlin, Python, TypeScript |
+| 언어 | Java, Kotlin, **Python**, TypeScript |
 | 프론트 | Next.js, React, Tailwind CSS |
-| 백엔드 | Spring Boot, NestJS, FastAPI |
-| DB | PostgreSQL, MySQL, Oracle, Redis |
-| AI | OpenAI, Hugging Face |
+| 백엔드 | Spring Boot, NestJS, **FastAPI** |
+| DB | **PostgreSQL**, MySQL, Oracle, Redis |
+| AI | **OpenAI**, Hugging Face |
 | 인프라 | Docker, AWS, Vercel, GitHub |
 
 ## Awards / Experience
